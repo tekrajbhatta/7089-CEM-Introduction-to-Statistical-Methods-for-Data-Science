@@ -1,0 +1,11 @@
+# Ignore history and workspace files
+.Rhistory
+.RData
+
+# Ignore logs and LaTeX files
+*.log
+*.tex
+
+# RStudio project files
+.Rproj.user/
+*.Rproj
